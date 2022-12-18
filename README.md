@@ -30,6 +30,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 -   CSS custom properties
 -   Flexbox
+-   Fontawesome
 
 ### What I learned
 

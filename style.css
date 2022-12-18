@@ -39,6 +39,8 @@ main {
     display: flex;
 }
 
+/* Set fixed width for left section (image) and max-width for right section (content) */
+
 .illustration-mockups img {
     width: 50rem;
 }
